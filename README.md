@@ -8,7 +8,7 @@
 - B.S. Computer Science | [@Northern Kentucky University](https://www.nku.edu) | 2016
 - M.S. Computer Science | [@Georgia Institue of Technology](https://www.gatech.edu) | 2019
 
-**Currently Working As:**
+**Current Employment:**
 
 - Staff Software Engineer @ GE Aviation
 - Instructional Associate for [CSE 6242](https://omscs.gatech.edu/cse-6242-data-visual-analytics) and [CS 7646](https://omscs.gatech.edu/cs-7646-machine-learning-trading) @ Georgia Tech
@@ -18,7 +18,7 @@
 [![githubbadge](https://img.shields.io/github/followers/rdt712?style=social)](https://github.com/rdt712)
 
 - 🔭 I’m currently working on ...
-  - Revamping my personal website into React
+  - Revamping my personal website into React [ryantoler.io](https://ryantoler-io.vercel.app/)
   - Trade tracking dashboard to track my trades overtime
 - 💬 Ask me about **Anything, Any time 😀**
 - 🌱 I’m currently learning
