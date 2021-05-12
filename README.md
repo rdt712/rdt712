@@ -18,7 +18,7 @@
 [![githubbadge](https://img.shields.io/github/followers/rdt712?style=social)](https://github.com/rdt712)
 
 - 🔭 I’m currently working on ...
-  - Revamping my personal website into React [ryantoler.io](https://ryantoler-io.vercel.app/)
+  - Revamping my personal website into React - [ryantoler.dev](https://ryantoler.dev)
   - Trade tracking dashboard to track my trades overtime
 - 💬 Ask me about **Anything, Any time 😀**
 - 🌱 I’m currently learning
