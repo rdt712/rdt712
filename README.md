@@ -10,8 +10,12 @@
 
 **Current Employment:**
 
-- Staff Software Engineer @ GE Aviation
+- Cloud Architect @ Trek10
 - Instructional Associate for [CSE 6242](https://omscs.gatech.edu/cse-6242-data-visual-analytics) and [CS 7646](https://omscs.gatech.edu/cs-7646-machine-learning-trading) @ Georgia Tech
+
+**Previous Employment:**
+
+- Staff Software Engineer @ GE Aviation
 
 [![twitter badge](https://img.shields.io/badge/-@ryantoler_-%231FA1F1?style=flat&logo=twitter&logoColor=white)](https://twitter.com/ryantoler_)
 [![dev.to badge](https://img.shields.io/badge/-Ryan_Toler-%230177B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/ryantoler)
