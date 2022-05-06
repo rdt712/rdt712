@@ -1,4 +1,6 @@
-<h1 align="center">Hello! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" alt="waving-hand" width="30px"> I'm Ryan Toler</h1>
+<h1 align="center">Hello! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" alt="waving-hand" width="30px"></h1>
+
+<iframe src="https://giphy.com/embed/XzYY9fZM6sNFe" width="480" height="359" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/headlikeanorange-headlikeanorange-richard-ayoade-the-it-crowd-XzYY9fZM6sNFe">via GIPHY</a></p>
 
 ![](https://komarev.com/ghpvc/?username=rdt712&color=green)
 ![](https://hit.yhype.me/github/profile?user_id=13369991)
@@ -8,12 +10,12 @@
 - B.S. Computer Science | [@Northern Kentucky University](https://www.nku.edu) | 2016
 - M.S. Computer Science | [@Georgia Institue of Technology](https://www.gatech.edu) | 2019
 
-**Current Employment:**
+**Current:**
 
 - Cloud Architect @ Trek10
 - Instructional Associate for [CSE 6242](https://omscs.gatech.edu/cse-6242-data-visual-analytics) and [CS 7646](https://omscs.gatech.edu/cs-7646-machine-learning-trading) @ Georgia Tech
 
-**Previous Employment:**
+**Previous:**
 
 - Staff Software Engineer @ GE Aviation
 
@@ -22,24 +24,19 @@
 [![githubbadge](https://img.shields.io/github/followers/rdt712?style=social)](https://github.com/rdt712)
 
 - 🔭 I’m currently working on ...
-  - Revamping my personal website into React - [ryantoler.dev](https://ryantoler.dev)
-  - Trade tracking dashboard to track my trades overtime
-- 💬 Ask me about **Anything, Any time 😀**
+  - Revamping my personal website and blog using React/Tailwind/NextJs - [ryantoler.dev](https://ryantoler.dev)
+  - Contributing to the open-source community
+- 💬 Ask me about **Serverless and Event-Driven Architectures 😀**. I would love to chat and frequently write about it.
 - 🌱 I’m currently learning
   - React
   - TypeScript
-  - GoLang
-- 📈🤑💸 Love to talk about trading
-  - Stocks
-  - Options
-  - Futures
 
-#### Languages
+#### Languages I Know
 
 ![Python](https://img.shields.io/badge/-Python-fff?&logo=python&logoColor=green)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-fff?&logo=JavaScript&logoColor=ddc508)
-![Java](https://img.shields.io/badge/-Java-fff?&logo=Java&logoColor=007396)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-fff?&logo=TypeScript&logoColor=007ACC)
+![Java](https://img.shields.io/badge/-Java-fff?&logo=Java&logoColor=007396)
 ![Bash](https://img.shields.io/badge/-Bash-fff?&logo=Linux&logoColor=black)
 ![HTML](https://img.shields.io/badge/-HTML-fff?&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-fff?&logo=CSS3&logoColor=blue)
