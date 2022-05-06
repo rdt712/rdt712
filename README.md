@@ -1,6 +1,6 @@
 <h1 align="center">Hello! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" alt="waving-hand" width="30px"></h1>
 
-<iframe src="https://giphy.com/embed/XzYY9fZM6sNFe" width="480" height="359" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/headlikeanorange-headlikeanorange-richard-ayoade-the-it-crowd-XzYY9fZM6sNFe">via GIPHY</a></p>
+<img src="https://giphy.com/embed/XzYY9fZM6sNFe" width="480" height="359" frameBorder="0" alt="It's fine"/>
 
 ![](https://komarev.com/ghpvc/?username=rdt712&color=green)
 ![](https://hit.yhype.me/github/profile?user_id=13369991)
