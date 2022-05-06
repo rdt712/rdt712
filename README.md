@@ -1,14 +1,17 @@
-<h1 align="center">Hello! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" alt="waving-hand" width="30px"></h1>
+<h1 align="center">Hello <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" alt="waving-hand" width="30px">
+</br>
+</br>
 
-<img src="https://giphy.com/embed/XzYY9fZM6sNFe" width="480" height="359" frameBorder="0" alt="It's fine"/>
+<!-- <img src="https://media.giphy.com/media/8xgqLTTgWqHWU/giphy.gif" width="400px" alt="brent"> -->
+<!-- <img src="https://media.giphy.com/media/12bVDtXPOzYwda/giphy.gif" width="400px" alt="hammer-time"> -->
+<!-- <img src="https://media.giphy.com/media/uurtMtTKqkJda4dk8Y/giphy-downsized-large.gif" width="350px" alt="its-fine"> -->
+<img src="https://media.giphy.com/media/XzYY9fZM6sNFe/giphy.gif" width="400px" alt="its-fine">
+
+<!-- <img src="https://media.giphy.com/media/QMHoU66sBXqqLqYvGO/giphy.gif" width="400px" alt="its-fine"> -->
+</h1>
 
 ![](https://komarev.com/ghpvc/?username=rdt712&color=green)
 ![](https://hit.yhype.me/github/profile?user_id=13369991)
-
-**Education:**
-
-- B.S. Computer Science | [@Northern Kentucky University](https://www.nku.edu) | 2016
-- M.S. Computer Science | [@Georgia Institue of Technology](https://www.gatech.edu) | 2019
 
 **Current:**
 
@@ -18,6 +21,11 @@
 **Previous:**
 
 - Staff Software Engineer @ GE Aviation
+
+**Education:**
+
+- B.S. Computer Science | [@Northern Kentucky University](https://www.nku.edu) | 2016
+- M.S. Computer Science | [@Georgia Institue of Technology](https://www.gatech.edu) | 2019
 
 [![twitter badge](https://img.shields.io/badge/-@ryantoler_-%231FA1F1?style=flat&logo=twitter&logoColor=white)](https://twitter.com/ryantoler_)
 [![dev.to badge](https://img.shields.io/badge/-Ryan_Toler-%230177B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/ryantoler)
