@@ -15,12 +15,14 @@
 
 **Current:**
 
-- Cloud Architect @ Trek10
-- Instructional Associate for [CSE 6242](https://omscs.gatech.edu/cse-6242-data-visual-analytics) and [CS 7646](https://omscs.gatech.edu/cs-7646-machine-learning-trading) @ Georgia Tech
+- Senior Staff Software Architect @ GE Aerospace
+- Instructional Associate for [CSE 6242](https://omscs.gatech.edu/cse-6242-data-visual-analytics) @ Georgia Tech
 
 **Previous:**
 
+- Cloud Architect @ Trek10
 - Staff Software Engineer @ GE Aviation
+- Instructional Associate for [CS 7646](https://omscs.gatech.edu/cs-7646-machine-learning-trading) @ Georgia Tech
 
 **Education:**
 
